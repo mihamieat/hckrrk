@@ -1,0 +1,19 @@
+{
+  "name": "hackerrank",
+  "version": "1.0.0",
+  "description": "hacker rank assignement saves",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mihamieat/hckrrk.git"
+  },
+  "author": "Mihamina Rakotovazaha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mihamieat/hckrrk/issues"
+  },
+  "homepage": "https://github.com/mihamieat/hckrrk#readme"
+}
